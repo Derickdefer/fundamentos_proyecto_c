@@ -31,6 +31,7 @@ Editor de código (opcional pero recomendado):
 VS Code
 Dev-C++
 Code::Blocks
+
 ## Pasos para su ejecucion
 1. Clonar/Descargar el proyecto
 git clone https://github.com/tu-usuario/conversor-moneda-c.git
@@ -43,7 +44,13 @@ gcc conversor.c -o conversor
 3. Ejecutar el programa
 En Linux/macOS:
 ./conversor
+
 4. Usar el programa
 Selecciona una opción del menú (1-6)
 Ingresa la cantidad a convertir
 Verás el resultado inmediatamente
+
+## Datos del Autor
+Derick Fernando Martinez Ordoñez
+derickdefer@gmail.com
+Carnet 25006938
